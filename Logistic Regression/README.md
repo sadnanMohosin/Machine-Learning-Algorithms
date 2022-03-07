@@ -13,3 +13,8 @@ Logistic regression is a supervised learning algorithm used to predict a depende
     * Ranking restaurants on a scale of 0 to 5 stars.
     * Predicting the podium results of an Olympic event.
     * Assessing a choice of candidates, specifically in places that institute ranked-choice voting.
+
+## Linear Regression vs Logistic Regression
+**Linear Regression** is a machine learning algorithm based on supervised regression algorithm. Regression models a target prediction value based on independent variables. It is mostly used for finding out the relationship between variables and forecasting. Different regression models differ based on – the kind of relationship between the dependent and independent variables, they are considering and the number of independent variables being used.
+
+**Logistic regression** is basically a supervised classification algorithm. In a classification problem, the target variable(or output), y, can take only discrete values for a given set of features(or inputs), X.
